@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Basic test
-        run: echo "This ran from a fork PR"
+        run: echo "This ran from a fork PR a second time"
